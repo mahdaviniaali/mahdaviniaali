@@ -28,11 +28,6 @@ From **B2B reverse auctions** to **Telegram bots** and **trading automations**.
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,postgresql,mysql,redis,docker,gitlab,linux,elasticsearch,selenium" />
-  </a>
-</p>
 
 | Area | Tools |
 |------|--------|
@@ -61,7 +56,11 @@ For full project breakdowns and updates → [**isempty.online**](https://www.ise
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdaviniaali&theme=github-compact" height="250"/>
 </p>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,postgresql,mysql,redis,docker,gitlab,linux,elasticsearch,selenium" />
+  </a>
+</p>
 ---
 
 <p align="center">
