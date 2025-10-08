@@ -1,4 +1,4 @@
-<h1 align="center">👋 سلام، من علی مهدوی‌نیا هستم</h1>
+<h1 align="center">👋 Hello! I'm Ali Mahdavinia</h1>
 <h3 align="center">Backend Developer — Django / Python</h3>
 
 ---
