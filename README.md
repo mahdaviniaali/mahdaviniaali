@@ -55,9 +55,7 @@ For full project breakdowns and updates → [**isempty.online**](https://www.ise
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdaviniaali&theme=radical&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdaviniaali&layout=compact&theme=radical&hide_border=true" height="130"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdaviniaali&theme=github-compact" height="250"/>
