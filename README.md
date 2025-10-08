@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Ali Mahdavinia</h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#ff0055;">Ali Mahdavinia</span></h1>
 <h3 align="center">Backend Developer — Django / Python</h3>
 
 <p align="center">
@@ -10,24 +10,30 @@
 ---
 
 ### 🧠 About Me
-I build backend systems that **work reliably in production** — scalable, testable, and clean.  
-Focused on solving **real-world business problems** with Django, DRF, Redis, and Docker.  
+I design backend systems that **just work** — scalable, testable, and maintainable.  
+Focused on turning **complex logic** into **clear, reliable systems** using Django, DRF, Redis & Docker.  
 
 If it runs on logic, data, or automation — I can build it.  
-From **B2B reverse auctions** to **Telegram bots** and **trading automation**.
+From **B2B reverse auctions** to **Telegram bots** and **trading automations**.
 
 ---
 
 ### ⚙️ What I Do
-- 🧩 Backend architecture for startups and internal tools  
-- 🤖 Telegram & automation bots  
-- 💹 Trading & data-driven bots (API integrations, async handling)  
-- 🚀 Asynchronous task queues with Celery / Redis  
-- 🧱 Modular REST APIs with Django REST Framework  
+💡 **Backend Architecture** – clean, modular, and production-ready  
+🤖 **Automation & Telegram Bots** – fast, scalable, and data-driven  
+💹 **Trading Bots** – async systems, API integrations, and performance tuning  
+🚀 **Task Queues** – Celery + Redis for heavy background jobs  
+🧱 **REST APIs** – well-documented, secure, and versioned with DRF  
 
 ---
 
-### 🛠️ Stack
+### 🛠️ Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,postgresql,mysql,redis,docker,gitlab,linux,elasticsearch,selenium" />
+  </a>
+</p>
+
 | Area | Tools |
 |------|--------|
 | **Core** | Python, Django, DRF |
@@ -38,7 +44,7 @@ From **B2B reverse auctions** to **Telegram bots** and **trading automation**.
 ---
 
 ### 🔗 Portfolio
-Full project details and updates → [**isempty.online**](https://www.isempty.online)
+For full project breakdowns and updates → [**isempty.online**](https://www.isempty.online)
 
 ---
 
@@ -52,19 +58,12 @@ Full project details and updates → [**isempty.online**](https://www.isempty.on
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdaviniaali&layout=compact&theme=radical&hide_border=true" height="130"/>
 </p>
 
-///////////
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdaviniaali&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdaviniaali&theme=radical" height="160"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdaviniaali&theme=github-compact" height="250"/>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,git,docker,linux,html,css,js" />
-  </a>
-</p>
+---
 
+<p align="center">
+  <i>💬 Let’s build something smart — logic-first, not luck-based.</i>
+</p>
