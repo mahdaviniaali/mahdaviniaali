@@ -51,3 +51,20 @@ Full project details and updates → [**isempty.online**](https://www.isempty.on
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdaviniaali&layout=compact&theme=radical&hide_border=true" height="130"/>
 </p>
+
+///////////
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdaviniaali&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdaviniaali&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdaviniaali&theme=github-compact" height="250"/>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,git,docker,linux,html,css,js" />
+  </a>
+</p>
+
