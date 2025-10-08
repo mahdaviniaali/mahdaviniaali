@@ -16,11 +16,13 @@ Focused on turning **complex logic** into **clear, reliable systems** using Djan
 If it runs on logic, data, or automation — I can build it.  
 From **B2B reverse auctions** to **Telegram bots** and **trading automations**.
 
-###💭 Beyond Code
+---
 
-I help shape ideas — even when they're not fully defined yet.
-Turning abstract thoughts into structured, working systems is my favorite part of the process.
+### 💭 Beyond Code
+I help shape ideas — even when they're not fully defined yet.  
+Turning abstract thoughts into structured, working systems is my favorite part of the process.  
 It’s a responsibility, but also the reason I love what I do.
+
 ---
 
 ### ⚙️ What I Do
@@ -33,7 +35,6 @@ It’s a responsibility, but also the reason I love what I do.
 ---
 
 ### 🛠️ Tech Stack
-
 | Area | Tools |
 |------|--------|
 | **Core** | Python, Django, DRF |
@@ -61,11 +62,13 @@ For full project breakdowns and updates → [**isempty.online**](https://www.ise
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdaviniaali&theme=github-compact" height="250"/>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,postgresql,mysql,redis,docker,gitlab,linux,elasticsearch,selenium" />
   </a>
 </p>
+
 ---
 
 <p align="center">
